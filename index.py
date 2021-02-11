@@ -18,7 +18,6 @@ plt.show()
 plot.plot(walk2, label = "n2", color="blue")
 plt.show()
 
-
 fig, axs = plt.subplots(4)
 axs[0].plot(walk0, label = "n0", color="green")
 axs[1].plot(walk1, label = "n1", color="red")
